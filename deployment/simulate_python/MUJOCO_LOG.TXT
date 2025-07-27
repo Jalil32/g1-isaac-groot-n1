@@ -1,0 +1,39 @@
+Wed Jul 23 12:03:20 2025
+ERROR: could not create window
+
+Wed Jul 23 12:04:15 2025
+ERROR: could not create window
+
+Wed Jul 23 12:04:22 2025
+ERROR: could not create window
+
+Wed Jul 23 14:38:06 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 15.7000.
+
+Wed Jul 23 14:54:28 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 707.1000.
+
+Thu Jul 24 10:47:55 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 11.9000.
+
+Thu Jul 24 10:51:43 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 9.9000.
+
+Thu Jul 24 11:09:48 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 24. The simulation is unstable. Time = 11.8000.
+
+Thu Jul 24 11:20:04 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 15.8000.
+
+Thu Jul 24 11:31:52 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 11.7800.
+
+Thu Jul 24 11:33:00 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 10.4700.
+
+Thu Jul 24 11:48:59 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 8.0400.
+
+Thu Jul 24 11:57:58 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 11.4900.
+
